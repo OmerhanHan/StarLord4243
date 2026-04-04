@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**StarLord4243/StarLord4243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OmerhanHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:# Hi 👋 I'm Ömerhan Sezgin
 
